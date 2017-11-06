@@ -1,6 +1,6 @@
 # Practice with C++ control flow
 
-##THIS CHANGED
+##THIS also CHANGED
 This comes from the following assignment in submit.cs:
 
 https://submit.cs.ucsb.edu/form/project/627
